@@ -1,0 +1,58 @@
+.bio{
+  padding-top: 80px;
+  text-align: center;
+
+}
+
+  h3{
+    font-family: 'Lobster', cursive;
+    color: #000066;
+  }
+  
+  p{
+    font-family: 'Slabo 27px', serif;
+  }
+
+
+
+
+.main-nav {
+	background-color: #000066;
+  font-family: 'Slabo 27px', serif;
+}
+
+body {
+	background-color: #faebd7 !important;
+} 
+
+.banner{
+	margin: 0 auto;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: #000066;
+}
+
+
+.jumbotron {
+
+  background-image: url(Images/IMG_1314.jpg);
+  background-size: cover;
+  margin-top: 100px !important;
+  margin: 0 auto;
+  border-radius: 180px;
+  height: 350px;
+  width: 350px;
+  border: 3px solid #000066;
+
+}
+
+i {
+  color: #000066 !important;
+  padding: 5px;
+  padding-top: 10px;
+
+}
+
+i:hover {
+  color:#939393 !important;
+}
