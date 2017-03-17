@@ -17,7 +17,14 @@
   }
 
 
+.phone{
+  padding-top: 10px;
+  color: #000066 !important;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
 
+
+}
 
 .main-nav {
 	background-color: #000066;
