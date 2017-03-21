@@ -68,21 +68,18 @@ i:hover {
 }
 
 .fit-town{
-  background-image: url(Images/fit-town.png);
   margin-top: 100px !important;
   margin: 0 auto;
   height: 100px;
-  width: 150px;
+  width: 175px;
   background-repeat: no-repeat;
 }
 
 .phoodlogr{
-  background-image: url(Images/phoodlogr.png);
   margin-top: 20px !important;
   margin: 0 auto;
   height: 100px;
   width: 175px;
-  background-size: cover;
   background-repeat: no-repeat;
 }
 
