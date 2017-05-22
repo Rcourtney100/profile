@@ -85,4 +85,12 @@ i:hover {
   background-repeat: no-repeat;
 }
 
+.social-icons{
+  animation-duration: 1.5s;
+}
+
+.phone{
+  animation-duration: 1.7s;
+}
+
 }
